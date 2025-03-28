@@ -53,7 +53,7 @@ Parameters:
 
   DockerImage:
     Type: String
-    Default: public.ecr.aws/p2l9n5r2/week6-repository:danielkwadwosah_week6nodeapp
+    Default: public.ecr.aws/p6l0u1j8/week6app:danielajayi_week6nodeapp
     Description: Docker image to deploy
 
   ContainerPort:
